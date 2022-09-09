@@ -1,0 +1,43 @@
+.col p{
+	padding-top:10px;
+}
+
+button{
+	background-color:cyan;
+}
+
+button:hover{
+	background-color:blue;
+	color:white;
+}
+
+#footer{
+	background-color:#f1f1f1;
+}
+
+.social-links{
+	float:right;
+}
+
+.social-links i{
+	padding:10px;
+}
+
+.social-links a{
+	text-decoration:none;
+}
+
+.footer-right a{
+	float:right;
+	text-decoration:none;
+	color:black;
+	padding:0px 12px;
+}
+
+.services{
+	background-color:bisque;
+}
+
+.services:hover{
+	background-color:pink;
+}
